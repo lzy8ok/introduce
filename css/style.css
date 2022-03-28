@@ -313,17 +313,20 @@ background:#FF0BEE;
 		    margin-left: 80%;
 		    position: absolute;
 		    top: 75%;
+			margin-top: 90px;
 		}
 		.lang .cn{
 			    margin-left: 80%;
 		}
 		.navbar-btn {
-			margin-top: 65px;
+			margin-top: 85px;
 			    padding: 0px;
 		}
 		.navbar-btn img{
 			height: 30px;
 			width: 30px;
 		}
-		
+		.navbar-btn button {
+			padding:0;
+		}
 }
