@@ -25,7 +25,7 @@ $(window).on("load", function () {
 
 	//全局分布
 	$(".main").css({ //右侧布的高度，相当于左侧高度
-		height: $("#sidebar-nav").outerHeight()
+		//height: $("#sidebar-nav").outerHeight()
 	});
 
 	$(".iframe_link").on("click", function () { //左侧a链接直接导入右侧iframe

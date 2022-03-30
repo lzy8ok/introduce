@@ -73,6 +73,7 @@ footer {
 	-o-transition: all .3s ease-in-out;
 	transition: all .3s ease-in-out;
 	width: calc(100% - 220px);
+	/* height: 600px; */ 
 	left: 0;
 	position: relative;
 	float: right;
