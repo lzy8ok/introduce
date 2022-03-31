@@ -271,12 +271,12 @@ background:#FF0BEE;
     height: 40px;
     line-height: 40px;
     background-color:#252c3500 ;
-    color: #272727c7;
+    color: #000000;
 	/* bottom: 0;
 	    position: absolute; */
 	    width: 100%;
 }
-.bottom a{    color: white;
+.bottom a{    color: #000000;
     font-size: 16px;}
 .introduce{
 	margin: 50px 50px 90px;
