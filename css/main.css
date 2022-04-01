@@ -7,7 +7,7 @@ body {
 	/* background-color: #f3f5f8; */
 	/* background-image: url(../img/bg.jpg); */
 	font-family: "Source Sans Pro", sans-serif;
-	font-size: 30px;
+	font-size: 15px;
 	color: #676a6d
 }
 
@@ -323,7 +323,7 @@ html.fullscreen-bg #wrapper {
 }
 
 .navbar-nav>li>a>i {
-	font-size: 22px;
+	font-size: 80px;
 	margin-right: 2px;
 	vertical-align: middle
 }
